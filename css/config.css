@@ -1,0 +1,63 @@
+
+#header
+{
+    text-align:center;
+    font-family: Helvetica;
+    font-size: medium;
+    background-color:#4e5944;
+    color:#fff;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+#body
+{
+    font-family: Arial;
+    align-content: center;
+    text-align: center;
+    text-height: 10%;
+    background-color: lavender;
+
+}
+#register
+{
+    text-shadow: darkblue;
+    font-size: large;
+    padding-right: 30px;
+    padding-top: 20px;
+    text-align: center;
+    background-color:dodgerblue;
+
+}
+#display
+{
+    font-family: Arial;
+    background-color: lavender;
+    padding-left: 200px;
+}
+#menu
+{
+    font-family: Helvetica;
+    background-color: #4e5944;
+    color: dodgerblue;
+    font-size: 15px;
+    font-style:inherit;
+
+}
+#images
+{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 50px;
+    border-image-width: auto;
+    text-align: center;
+    marquee-direction: reverse;
+    marquee-loop: infinite;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#footer
+{
+    padding-top: 235px;
+    text-align: right;
+}
